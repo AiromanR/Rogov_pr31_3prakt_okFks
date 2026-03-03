@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rogov_pr31_3prakt_okFks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4d5e97223e29624118adb7b922b13cff790f0ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e32ee7a42b82333c4df1d770f95366254185fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rogov_pr31_3prakt_okFks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rogov_pr31_3prakt_okFks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -52,7 +52,7 @@ namespace Rogov_pr31_3prakt_okFks
         }
 
         [Fact]
-        public void CalculatePrice_Return240_StudentAge17() //ГраницаСтудент
+        public void CalculatePrice_Return180_StudentAge17() //ГраницаСтудент
         {
             var r = new TicketRequest { Age = 17, IsStudent = true, IsVip = false, Day = DayOfWeek.Monday, SessionTime = TimeSpan.FromHours(14.41) };
             var calc = new TicketPriceCalculator();
