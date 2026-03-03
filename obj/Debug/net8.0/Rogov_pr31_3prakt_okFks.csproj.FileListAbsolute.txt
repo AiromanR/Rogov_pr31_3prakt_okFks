@@ -99,3 +99,4 @@ C:\Users\Drun\source\repos\Rogov_pr31_3prakt_okFks\obj\Debug\net8.0\refint\Rogov
 C:\Users\Drun\source\repos\Rogov_pr31_3prakt_okFks\obj\Debug\net8.0\Rogov_pr31_3prakt_okFks.pdb
 C:\Users\Drun\source\repos\Rogov_pr31_3prakt_okFks\obj\Debug\net8.0\Rogov_pr31_3prakt_okFks.genruntimeconfig.cache
 C:\Users\Drun\source\repos\Rogov_pr31_3prakt_okFks\obj\Debug\net8.0\ref\Rogov_pr31_3prakt_okFks.dll
+C:\Users\Drun\source\repos\Rogov_pr31_3prakt_okFks\obj\Debug\net8.0\Rogov_pr31_3prakt_okFks.sourcelink.json
